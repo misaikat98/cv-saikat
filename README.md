@@ -1,2 +1,0 @@
-# cv-saikat
-CV website
